@@ -2,3 +2,4 @@ Name
 contact
 profile
 last seen
+hide last seen
