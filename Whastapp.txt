@@ -3,3 +3,5 @@ contact
 profile
 last seen
 hide last seen
+add audio call
+add video call
